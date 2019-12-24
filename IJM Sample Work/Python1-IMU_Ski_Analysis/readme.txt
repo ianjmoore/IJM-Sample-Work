@@ -1,6 +1,6 @@
-Python1-IMU_Ski_Analysis
+## Python1-IMU_Ski_Analysis
 
-Sensor Data Analyst
+#### Sensor Data Analyst
 UVM Biomedical Engineering Dept. 
 -Developed algorithms in Python by using wearable IMU sensor data to identify specific events during overground Nordic Skiing
 -Imports 18 data sets in Python and processes noisy signal using continuous wavelet transform and windowing algorithm
