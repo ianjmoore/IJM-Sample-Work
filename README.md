@@ -16,4 +16,4 @@
 #### SolidWorks: 
 -F-16 nose gear assembly<br>
 -Favorite aircraft<br>
--After doing a pen and paper Failure Modes Analysis in Design of Elements, on the vertical connecting rod of the F-16 nose gear, I made the assembly in SolidWorks. <br>
+-After doing a Failure Modes Analysis in Design of Elements, on the vertical connecting rod of the F-16 nose gear, I made the assembly in SolidWorks. <br>
