@@ -1,0 +1,9 @@
+https://docs.python.org Python's official documentation page: anything Python 1st party related.<br>
+
+https://docs.scipy.org Scientific Python (SciPy) official documentation page. SciPy are the creaters of Numpy, MatPlotLib and many other powerfull Python extensions. <br>
+
+https://w3schools.com One of the cleanest general 3rd party tutorial sites on Python. <br>
+
+https://stackoverflow.com Invaluable forum website for nearly any coding language. User posts question, another user (shows experience level) posts solution which gets voted up or down by other users based on accuracy. Type your question or Traceback error into Google and chances are someone has had the same problem or similar enough that you can extrapolate your answer. <br>
+
+https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- Socratica has a more interactive approach to teaching and learning with each video pased in console. (Console is a running display of both your input and immediately prints output with each executed command. If you do want to practice in console, you can click "File" > "New Console for Notebook". To execute commands just hold [shift] + press [enter] (same as executing cells in Notebook).)<br>
