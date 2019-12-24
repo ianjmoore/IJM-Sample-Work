@@ -9,4 +9,7 @@
 
 #### InDocImages
 -Contains accompanying images for notebooks in this directory<br>
-#### 
+#### ME003-Ans-Intro_Python_Master.ipynb
+-Contains numbered answers to exercises in ME003-Intro_Python_Master.ipynb<br>
+#### ME003-Intro_Python_Master.ipynb
+-Jupyter Notebook teaching "green" Freshmen Engineers with no coding experience from beginning to 
