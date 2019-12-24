@@ -7,7 +7,7 @@
 #### SimRobot 
 -Contains more advanced code for differential drive robot control <br>
 
-#### InDocImages
+#### in_doc_images
 -Contains accompanying images for notebooks in this directory<br>
 #### ME003-Ans-Intro_Python_Master.ipynb
 -Contains numbered answers to exercises in ME003-Intro_Python_Master.ipynb<br>
