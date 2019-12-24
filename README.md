@@ -1,4 +1,4 @@
-## Ian. J Moore Sample Work
+## Ian. J Moore - Sample Work
 
 #### Python1-IMU_Ski_Analysis:
 -Developed algorithms in Python by using wearable IMU sensor data to identify specific events during Roller Skiing<br>
