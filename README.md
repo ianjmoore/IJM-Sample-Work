@@ -1,4 +1,4 @@
-## Ian J. Moore - Sample Work
+## Ian J. Moore - Sample Work Repository
 
 Hello, and welcome to my Sample Work repository! Listed below are a sampling of my deliverables from various projects and internships. Enjoy and don't hesitate to get in contact with me if you would like clarification. 
 You can reach me at:<br>
