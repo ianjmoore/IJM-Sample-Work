@@ -6,6 +6,8 @@ You can reach me at:<br>
 *email:* ijmoore@uvm.edu<br>
 *phone:* (207) 865-6548<br>
 
+***
+
 #### Python1-IMU_Ski_Analysis:
 -Developed algorithms in Python by using wearable IMU sensor data to identify specific events during Roller Skiing<br>
 -Imports multiple sensor data sets in Python and processes noisy signal using continuous wavelet transforms <br>
