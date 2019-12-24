@@ -12,4 +12,4 @@
 #### ME003-Ans-Intro_Python_Master.ipynb
 -Contains numbered answers to exercises in ME003-Intro_Python_Master.ipynb<br>
 #### ME003-Intro_Python_Master.ipynb
--Jupyter Notebook teaching "green" Freshmen Engineers with no coding experience from beginning to 
+-Jupyter Notebook teaching "green" Freshmen Engineers with no coding experience from simple mathematics to classes and methods
