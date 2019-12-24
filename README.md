@@ -13,14 +13,17 @@ You can reach me at:<br>
 -Imports multiple sensor data sets in Python and processes noisy signal using continuous wavelet transforms <br>
 -The data called in PO_PP.py is IRB protected and therefore cannot be included. The poster in this folder shows the plots and does a nice job of displaying the output from the program. 
 
+
 #### Python2-ME003-Intro_to_Robotics:
 -Collection of documents and code in support of ME003 that I wrote as the curriculum for a two credit intro-course for Freshmen Engineers with little to no coding experience.<br>
 -See ME003-Intro_Python_Master.ipynb for bulk of intro coursework<br>
 -See SimRobot/ME003-SimBot-1.ipynb for simulated robot code <br>
 
+
 #### C++DDRobot_ISR:
 -Final project in Embedded Systems<br>
 -Simulated partially autonomous vehicle with automatic breaking overriding user control through Arduino C++ ISR<br>
+
 
 #### SolidWorks: 
 -F-16 nose gear assembly<br>
