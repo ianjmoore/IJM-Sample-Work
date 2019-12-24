@@ -6,3 +6,7 @@
 
 #### SimRobot 
 -Contains more advanced code for differential drive robot control <br>
+
+#### InDocImages
+-Contains accompanying images for notebooks in this directory<br>
+#### 
