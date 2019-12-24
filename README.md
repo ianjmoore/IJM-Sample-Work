@@ -1,8 +1,8 @@
 ## Ian. J Moore Sample Work
 
 #### Python1-IMU_Ski_Analysis:
--Developed algorithms in Python by using wearable IMU sensor data to identify specific events during Roller Skiing
--Imports multiple sensor data sets in Python and processes noisy signal using continuous wavelet transforms 
+-Developed algorithms in Python by using wearable IMU sensor data to identify specific events during Roller Skiing<br>
+-Imports multiple sensor data sets in Python and processes noisy signal using continuous wavelet transforms <br>
 
 #### Python2-ME003-Intro_to_Robotics:
 -Collection of documents and code in support of ME003 that I wrote as the curriculum for a two credit intro-course for Freshmen Engineers with little to no coding experience.
