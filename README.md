@@ -1,9 +1,9 @@
 ## Ian J. Moore - Sample Work Repository
 
-Hello, and welcome to my Sample Work repository! Listed below are a brief sampling of some of my deliverables from various projects and internships. Enjoy and don't hesitate to get in contact with me if you would like clarification. 
+Hello, and welcome to my Sample Work repository! Listed below are a brief sampling of some of my deliverables from various projects and internships. Enjoy and don't hesitate to get in contact with me if you would like to chat. 
 You can reach me at:<br>
 
-*email:* ijmoore@uvm.edu<br>
+*email:* ian.j.moore95@gmail.com<br>
 *phone:* (207) 865-6548<br>
 
 ***
