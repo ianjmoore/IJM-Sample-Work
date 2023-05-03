@@ -4,7 +4,6 @@ Hello, and welcome to my Sample Work repository! Listed below are a brief sampli
 You can reach me at:<br>
 
 *email:* ian.j.moore95@gmail.com<br>
-*phone:* (207) 865-6548<br>
 
 ***
 
